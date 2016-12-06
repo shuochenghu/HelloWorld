@@ -4,4 +4,4 @@ Hi, Huamn:
 My name is chuckhu
 My first git reposiroty
 
-I love :coffee: , :pizza: , and :dancer:
+I love :coffee: , :pizza: , and :dancer:.
